@@ -24,6 +24,4 @@ app.use(morgan("dev"));
 app.use('/api/products', product);
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-    console.log(`listening on PORT:${PORT}`)
-});
+app.listen(PORT, () => console.log(`listening on PORT:${PORT}`));
