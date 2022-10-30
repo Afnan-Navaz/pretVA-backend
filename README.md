@@ -1,3 +1,3 @@
-# pretVA-backend-API
+# PretVA-backend-API
 
-Backend for pretVA sample site.
+Backend API for PretVA sample site.
